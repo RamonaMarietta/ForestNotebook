@@ -1,8 +1,10 @@
-package be.intecbrussel.the_notebook.enteties.plant_enteties;
+package be.intecbrussel.the_notebook.enteties.plant_entities;
 
 public class Bush extends Plant{
     private String fruit;
     private LeafType leafType;
+
+    //constructors
     public Bush(String name) {
         super(name);
     }
@@ -10,8 +12,7 @@ public class Bush extends Plant{
     public Bush(String name, double height) {
         super(name, height);
     }
-
-
+    //getters/setters
 
    public String getFruit(){
        return fruit;

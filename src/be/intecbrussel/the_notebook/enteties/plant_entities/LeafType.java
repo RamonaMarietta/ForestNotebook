@@ -1,4 +1,4 @@
-package be.intecbrussel.the_notebook.enteties.plant_enteties;
+package be.intecbrussel.the_notebook.enteties.plant_entities;
 
 public enum LeafType {
     NEEDLE,

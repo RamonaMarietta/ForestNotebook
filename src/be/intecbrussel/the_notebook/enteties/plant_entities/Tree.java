@@ -1,6 +1,10 @@
-package be.intecbrussel.the_notebook.enteties.plant_enteties;
+package be.intecbrussel.the_notebook.enteties.plant_entities;
 
 public class Tree extends Plant {
+
+    private LeafType leafType;
+
+    //constructors
     public Tree(String name, LeafType leafType) {
         super(name);
         this.leafType = leafType;
@@ -10,9 +14,7 @@ public class Tree extends Plant {
         super(name, height);
         this.leafType = leafType;
     }
-
-
-    private LeafType leafType;
+    // gettesr/setters
 
     public LeafType getLeafType() {
         return leafType;

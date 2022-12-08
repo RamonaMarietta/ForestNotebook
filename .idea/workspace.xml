@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fb84f87-09d5-4f5b-a972-4cd2e54e40ed" name="Changes" comment="" />
+    <list default="true" id="4fb84f87-09d5-4f5b-a972-4cd2e54e40ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/animal_entities/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/animal_entities/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/animal_entities/AnimalType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/animal_entities/AnimalType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/animal_entities/Carnivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/animal_entities/Carnivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/animal_entities/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/animal_entities/Herbivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/animal_entities/Omnivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/animal_entities/Omnivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/app/NatureApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/app/NatureApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Bush.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Bush.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/LeafType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/LeafType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Scent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Scent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Weed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/plant_entities/Weed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/service/ForestNotebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/the_notebook/enteties/service/ForestNotebook.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IUEG9z2ifvJuNu9CNyG5bfAvM6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,12 +43,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/Forest Notebook&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="NatureApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.the_notebook.enteties.app.NatureApp" />
+      <module name="Forest Notebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.the_notebook.enteties.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NatureApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +80,16 @@
       <updated>1670227666272</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
